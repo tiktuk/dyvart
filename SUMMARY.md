@@ -2,6 +2,5 @@
 
 * [Installations](installations.md)
 * [Drawings](drawings.md)
-   * Ink
-   * hej
-
+   * [Ink](ink.md)
+   * [Pencil](pencil.md)
