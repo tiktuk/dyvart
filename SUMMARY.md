@@ -1,4 +1,4 @@
 # Summary
 
-* Installations
+* [Installations](installations.md)
 
