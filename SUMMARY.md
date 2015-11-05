@@ -1,5 +1,5 @@
 # Summary
 
 * [Installations](installations.md)
-* Drawings
+* [Drawings](drawings.md)
 
